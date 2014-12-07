@@ -11,4 +11,4 @@ You can simply load ogg/mp3 audio files by this frame. The loading screen includ
 Well-Programmed Game Starting Screen
 ====================================
 
-The CSS Style included.
+The CSS Style still not added, but the html5 file included.
